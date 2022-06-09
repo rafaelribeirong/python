@@ -1,0 +1,5 @@
+n1 = int(input('Digite um nome: '))
+n2 = int(input('Digite um nome: '))
+n3 = int(input('Digite um nome: '))
+n4 = int(input('Digite um nome: '))
+print = ('O nome sorteado foi {}'.format(n1, n2, n3, n4))
