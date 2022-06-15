@@ -14,4 +14,3 @@ elif idade <= 25:
     print("Por favor se cadastrar na modalidade SÊNIOR!")
 else:
     print("Por favor se cadastrar na modalidade MASTER!")
-
